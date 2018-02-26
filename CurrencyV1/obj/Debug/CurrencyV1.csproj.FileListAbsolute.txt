@@ -1,0 +1,15 @@
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\bin\Debug\CurrencyV1.exe.config
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\bin\Debug\CurrencyV1.exe
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\bin\Debug\CurrencyV1.pdb
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\CurrencyV1.csprojResolveAssemblyReference.cache
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\MainWindow.g.cs
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\App.g.cs
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\CurrencyV1_MarkupCompile.cache
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\CurrencyV1_MarkupCompile.lref
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\MainWindow.baml
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\CurrencyV1.g.resources
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\CurrencyV1.Properties.Resources.resources
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\CurrencyV1.csproj.GenerateResource.Cache
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\CurrencyV1.csproj.CoreCompileInputs.cache
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\CurrencyV1.exe
+C:\Users\54646\source\repos\CurrencyV1\CurrencyV1\obj\Debug\CurrencyV1.pdb
