@@ -1,0 +1,16 @@
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\DAL.dll.config
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\DAL.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\DAL.pdb
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\DataProtocol.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\DataProtocol.pdb
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\DataProtocol.dll.config
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\obj\Debug\DAL.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DAL\obj\Debug\DAL.pdb

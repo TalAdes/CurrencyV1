@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyV1", "CurrencyV1\CurrencyV1.csproj", "{F4E0570C-4CB9-4C6E-9775-8FF69A3A876A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FE544D11-22DB-4103-A1EA-B93AA4351FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProtocol", "DataProtocol\DataProtocol.csproj", "{14B2B295-8EA6-435D-A37D-F20637338837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F4E0570C-4CB9-4C6E-9775-8FF69A3A876A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E0570C-4CB9-4C6E-9775-8FF69A3A876A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E0570C-4CB9-4C6E-9775-8FF69A3A876A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE544D11-22DB-4103-A1EA-B93AA4351FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE544D11-22DB-4103-A1EA-B93AA4351FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE544D11-22DB-4103-A1EA-B93AA4351FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE544D11-22DB-4103-A1EA-B93AA4351FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B2B295-8EA6-435D-A37D-F20637338837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B2B295-8EA6-435D-A37D-F20637338837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B2B295-8EA6-435D-A37D-F20637338837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B2B295-8EA6-435D-A37D-F20637338837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

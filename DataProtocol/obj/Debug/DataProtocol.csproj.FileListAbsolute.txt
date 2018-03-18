@@ -1,0 +1,11 @@
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\bin\Debug\DataProtocol.dll.config
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\bin\Debug\DataProtocol.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\bin\Debug\DataProtocol.pdb
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\bin\Debug\EntityFramework.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\bin\Debug\EntityFramework.xml
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\obj\Debug\DataProtocol.csproj.CoreCompileInputs.cache
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\obj\Debug\DataProtocol.dll
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\obj\Debug\DataProtocol.pdb
+C:\Users\54646\source\repos\currency exchange and compare project\CurrencyV1\DataProtocol\obj\Debug\DataProtocol.csprojResolveAssemblyReference.cache
